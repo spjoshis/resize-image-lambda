@@ -1,0 +1,23 @@
+{
+  "name": "resize-image-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function to resize images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lambda",
+    "Image",
+    "Node.Js",
+    "Resize"
+  ],
+  "author": "Gopal Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jimp": "^0.2.28"
+  }
+}
